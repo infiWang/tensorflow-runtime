@@ -20,6 +20,8 @@
 #ifndef TFRT_SUPPORT_HASH_UTIL_H_
 #define TFRT_SUPPORT_HASH_UTIL_H_
 
+#include <cstdint>
+
 #include "llvm/ADT/StringRef.h"
 #include "tfrt/support/forward_decls.h"
 
