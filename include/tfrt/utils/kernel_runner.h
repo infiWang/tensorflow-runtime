@@ -18,6 +18,7 @@
 #define TFRT_UTILS_KERNEL_RUNNER_H_
 
 #include <cstddef>
+#include <cstdint>
 #include <cstring>
 #include <type_traits>
 

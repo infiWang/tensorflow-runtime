@@ -14,6 +14,8 @@
 
 // Implementations of TF Transpose op.
 
+#include <cstdint>
+
 #include "llvm/Support/Error.h"
 #include "tfrt/common/compat/eigen/eigen_dtype.h"
 #include "tfrt/core_runtime/op_attrs.h"

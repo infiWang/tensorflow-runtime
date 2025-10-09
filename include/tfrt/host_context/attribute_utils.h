@@ -21,6 +21,7 @@
 #ifndef TFRT_HOST_CONTEXT_ATTRIBUTE_UTILS_H_
 #define TFRT_HOST_CONTEXT_ATTRIBUTE_UTILS_H_
 
+#include <cstdint>
 #include <numeric>
 
 #include "llvm/ADT/ArrayRef.h"

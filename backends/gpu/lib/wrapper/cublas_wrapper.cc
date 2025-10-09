@@ -15,6 +15,9 @@
 // Thin wrapper around the cuBLAS API adding llvm::Error.
 #include "tfrt/gpu/wrapper/cublas_wrapper.h"
 
+
+#include <cstdint>
+
 #include "wrapper_detail.h"
 
 namespace tfrt {

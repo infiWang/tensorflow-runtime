@@ -15,6 +15,8 @@
 // This file implements MLIR operation functions for the core runtime library.
 #include "tfrt/core_runtime/opdefs/core_runtime.h"
 
+#include <cstdint>
+
 #include "llvm/ADT/STLExtras.h"
 #include "mlir/Dialect/Func/IR/FuncOps.h"
 #include "mlir/IR/Attributes.h"

@@ -21,6 +21,7 @@
 #include <Windows.h>
 #include <assert.h>
 
+#include <cstdint>
 #include <limits>
 
 #include "llvm_derived/Support/raw_ostream.h"

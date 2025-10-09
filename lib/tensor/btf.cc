@@ -16,6 +16,8 @@
 
 #include "tfrt/tensor/btf.h"
 
+#include <cstdint>
+
 #include "llvm/Support/raw_ostream.h"
 #include "tfrt/support/error_util.h"
 

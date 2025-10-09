@@ -49,6 +49,8 @@
 #ifndef TFRT_COMPILER_STREAM_ANALYSIS_H_
 #define TFRT_COMPILER_STREAM_ANALYSIS_H_
 
+#include <cstdint>
+
 #include "llvm/ADT/SetVector.h"
 #include "mlir/Dialect/Func/IR/FuncOps.h"
 #include "mlir/IR/Block.h"

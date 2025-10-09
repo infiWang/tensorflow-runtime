@@ -15,6 +15,7 @@
  */
 #include "tfrt/bef/span.h"
 
+#include <cstdint>
 #include <vector>
 
 #include "gmock/gmock.h"

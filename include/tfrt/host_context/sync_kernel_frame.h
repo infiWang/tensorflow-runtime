@@ -23,6 +23,7 @@
 #ifndef TFRT_HOST_CONTEXT_SYNC_KERNEL_FRAME_H_
 #define TFRT_HOST_CONTEXT_SYNC_KERNEL_FRAME_H_
 
+#include <cstdint>
 #include <utility>
 
 #include "llvm/ADT/ArrayRef.h"

@@ -18,6 +18,7 @@
 
 #include "matmul_fusion_ops.h"
 
+#include <cstdint>
 #include <algorithm>
 #include <initializer_list>
 

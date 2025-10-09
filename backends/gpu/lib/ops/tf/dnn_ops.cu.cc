@@ -25,6 +25,8 @@
 #include "tfrt/gpu/tensor/dense_gpu_tensor.h"
 #include "tfrt/gpu/wrapper/cudart_wrapper.h"
 
+#include <cstdint>
+
 namespace tfrt {
 namespace gpu {
 namespace {

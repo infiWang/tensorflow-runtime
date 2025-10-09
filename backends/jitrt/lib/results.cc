@@ -20,6 +20,7 @@
 
 #include "tfrt/jitrt/results.h"
 
+#include <cstdint>
 #include <utility>
 
 #include "mlir/ExecutionEngine/CRunnerUtils.h"

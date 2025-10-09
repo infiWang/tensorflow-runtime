@@ -14,6 +14,7 @@
 
 // Implementations of TF reduction ops.
 
+#include <cstdint>
 #include <cstddef>
 #include <iterator>
 

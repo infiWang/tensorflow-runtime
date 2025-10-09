@@ -50,6 +50,7 @@
 #define TFRT_THIRD_PARTY_CONCURRENT_WORK_QUEUE_WORK_QUEUE_BASE_H_
 
 #include <atomic>
+#include <cstdint>
 #include <memory>
 #include <string>
 #include <thread>

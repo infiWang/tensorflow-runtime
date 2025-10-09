@@ -14,6 +14,7 @@
 
 // This file defines the tensor kernels for resnet.
 
+#include <cstdint>
 #include <cmath>
 
 #include "../../kernels/cpu_kernels.h"

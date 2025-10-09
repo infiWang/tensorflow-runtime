@@ -14,6 +14,7 @@
 
 // Collates list of all TF DNN operations.
 
+#include <cstdint>
 #include <numeric>
 #include <optional>
 #include <unordered_map>

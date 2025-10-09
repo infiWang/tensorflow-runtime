@@ -22,6 +22,7 @@
 #ifndef TFRT_HOST_CONTEXT_KERNEL_CONTEXT_H_
 #define TFRT_HOST_CONTEXT_KERNEL_CONTEXT_H_
 
+#include <cstdint>
 #include <string>
 #include <utility>
 

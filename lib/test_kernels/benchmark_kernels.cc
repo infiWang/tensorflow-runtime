@@ -16,6 +16,7 @@
 
 #include <cassert>
 #include <chrono>
+#include <cstdint>
 #include <ctime>
 
 #include "llvm/ADT/FunctionExtras.h"

@@ -14,6 +14,8 @@
 
 // This file implements protobuf-related kernels.
 
+#include <cstdint>
+
 #include "tfrt/cpu/kernels/proto/example.proto.h"
 #include "tfrt/host_context/async_dispatch.h"
 #include "tfrt/host_context/diagnostic.h"

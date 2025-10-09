@@ -19,6 +19,8 @@
 #ifndef TFRT_BACKENDS_CPU_LIB_KERNELS_CPU_CONCAT_KERNEL_H_
 #define TFRT_BACKENDS_CPU_LIB_KERNELS_CPU_CONCAT_KERNEL_H_
 
+#include <cstdint>
+
 #include "tfrt/common/compat/eigen/eigen_kernel.h"
 #include "tfrt/support/error_util.h"
 #include "tfrt/support/ranges.h"

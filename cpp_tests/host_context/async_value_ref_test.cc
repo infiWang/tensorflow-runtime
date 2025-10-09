@@ -16,6 +16,7 @@
 
 #include "tfrt/host_context/async_value_ref.h"
 
+#include <cstdint>
 #include <memory>
 #include <utility>
 

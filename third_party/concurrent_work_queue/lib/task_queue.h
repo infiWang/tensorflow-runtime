@@ -26,6 +26,7 @@
 
 #include <array>
 #include <atomic>
+#include <cstdint>
 #include <limits>
 
 #include "llvm/ADT/FunctionExtras.h"

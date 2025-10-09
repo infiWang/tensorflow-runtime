@@ -15,6 +15,8 @@
 // This file defines some example op implementations in the "tfrt_test."
 // namespace.
 
+#include <cstdint>
+
 #include "../../kernels/cpu_kernels.h"
 #include "llvm/Support/Casting.h"
 #include "llvm_derived/Support/raw_ostream.h"

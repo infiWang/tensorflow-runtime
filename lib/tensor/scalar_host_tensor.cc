@@ -16,6 +16,7 @@
 
 #include "tfrt/tensor/scalar_host_tensor.h"
 
+#include <cstdint>
 #include <optional>
 
 #include "llvm/Support/raw_ostream.h"

@@ -17,6 +17,8 @@
 // This file defines C++ utility functions for hashing
 #include "tfrt/support/hash_util.h"
 
+#include <cstdint>
+
 #include "tfrt/support/byte_order.h"
 
 namespace tfrt {

@@ -20,6 +20,8 @@
 #ifndef TFRT_BACKENDS_GPU_LIB_OPS_TF_PAD_OP_H_
 #define TFRT_BACKENDS_GPU_LIB_OPS_TF_PAD_OP_H_
 
+#include <cstdint>
+
 #define EIGEN_USE_GPU
 
 #include "tfrt/common/compat/eigen/tensor_types.h"

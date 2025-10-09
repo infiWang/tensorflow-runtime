@@ -14,6 +14,7 @@
 
 // GPU Executor Test Driver
 
+#include <cstdint>
 #include <cstdlib>
 #include <memory>
 #include <string>

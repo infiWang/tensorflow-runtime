@@ -19,6 +19,8 @@
 #ifndef TFRT_BEF_CONVERTER_BEF_TO_MLIR_H_
 #define TFRT_BEF_CONVERTER_BEF_TO_MLIR_H_
 
+#include <cstdint>
+
 #include "tfrt/support/forward_decls.h"
 
 namespace mlir {

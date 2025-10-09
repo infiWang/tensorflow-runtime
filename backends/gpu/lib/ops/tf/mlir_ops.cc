@@ -14,6 +14,7 @@
 
 // Collates list of all TF operations with pre-generated GPU code.
 
+#include <cstdint>
 #include <numeric>
 #include <unordered_map>
 

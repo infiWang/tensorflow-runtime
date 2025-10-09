@@ -15,6 +15,7 @@
 #include "tfrt/utils/kernel_runner.h"
 
 #include <cstddef>
+#include <cstdint>
 #include <cstring>
 #include <type_traits>
 #include <utility>

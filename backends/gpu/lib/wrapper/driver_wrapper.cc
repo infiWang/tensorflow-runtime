@@ -15,6 +15,8 @@
 // Thin abstraction layer for CUDA and HIP driver API.
 #include "tfrt/gpu/wrapper/driver_wrapper.h"
 
+#include <cstdint>
+
 #include "llvm/ADT/STLExtras.h"
 #include "llvm/Support/FormatVariadic.h"
 #include "tfrt/gpu/wrapper/cuda_wrapper.h"

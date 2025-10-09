@@ -18,6 +18,7 @@
 
 #include "tfrt/host_context/parallel_for.h"
 
+#include <cstdint>
 #include <chrono>
 #include <thread>
 #include <utility>

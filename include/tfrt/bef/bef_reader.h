@@ -20,6 +20,7 @@
 #ifndef TFRT_SUPPORT_BEF_READER_H_
 #define TFRT_SUPPORT_BEF_READER_H_
 
+#include <cstdint>
 #include <cassert>
 
 #include "llvm/ADT/ArrayRef.h"

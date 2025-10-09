@@ -17,6 +17,8 @@
 // Implements tf.Pad on GPU.
 #include "pad_op.h"
 
+#include <cstdint>
+
 #define EIGEN_USE_GPU
 
 #include <iostream>  // some eigen header use std::cerr without including it.

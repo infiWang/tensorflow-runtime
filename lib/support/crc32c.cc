@@ -18,6 +18,8 @@
 
 #include "tfrt/support/crc32c.h"
 
+#include <cstdint>
+
 #include "tfrt/support/raw_coding.h"
 #include "tfrt/support/string_util.h"
 

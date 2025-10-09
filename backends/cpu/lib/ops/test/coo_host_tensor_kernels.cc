@@ -14,6 +14,8 @@
 
 // This file implements kernels for handling COO host tensors.
 
+#include <cstdint>
+
 #include "llvm/Support/Error.h"
 #include "tfrt/core_runtime/op_attrs.h"
 #include "tfrt/core_runtime/op_utils.h"

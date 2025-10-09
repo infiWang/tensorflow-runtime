@@ -15,6 +15,8 @@
 // Thin abstraction layer for cuDNN and MIOpen.
 #include "tfrt/gpu/wrapper/dnn_wrapper.h"
 
+#include <cstdint>
+
 #include "library_types.h"
 #include "tfrt/gpu/wrapper/cudnn_wrapper.h"
 #include "tfrt/gpu/wrapper/miopen_wrapper.h"

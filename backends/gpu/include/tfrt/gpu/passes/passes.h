@@ -19,6 +19,7 @@
 #ifndef TFRT_GPU_PASSES_PASSES_H_
 #define TFRT_GPU_PASSES_PASSES_H_
 
+#include <cstdint>
 #include <memory>
 #include <string>
 

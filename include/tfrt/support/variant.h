@@ -19,6 +19,7 @@
 #ifndef TFRT_SUPPORT_VARIANT_H_
 #define TFRT_SUPPORT_VARIANT_H_
 
+#include <cstdint>
 #include <tuple>
 #include <type_traits>
 

@@ -17,6 +17,8 @@
 #ifndef TFRT_GPU_WRAPPER_CUFFT_WRAPPER_H_
 #define TFRT_GPU_WRAPPER_CUFFT_WRAPPER_H_
 
+#include <cstdint>
+
 #include "cufft.h"  // from @cuda_headers
 #include "tfrt/gpu/wrapper/fft_wrapper.h"
 

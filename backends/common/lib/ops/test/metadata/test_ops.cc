@@ -14,6 +14,8 @@
 
 // This file defines the metadata functions for the test ops dialect.
 
+#include <cstdint>
+
 #include "tfrt/common/ops/test/metadata_functions.h"
 #include "tfrt/core_runtime/op_utils.h"
 #include "tfrt/support/error_util.h"

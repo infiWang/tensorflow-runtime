@@ -16,6 +16,8 @@
 
 #include "tfrt/tensor/coo_host_tensor.h"
 
+#include <cstdint>
+
 #include "llvm/ADT/STLExtras.h"
 #include "llvm/Support/raw_ostream.h"
 #include "tfrt/dtype/dtype_formatter.h"

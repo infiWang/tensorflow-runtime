@@ -16,6 +16,8 @@
 #ifndef TFRT_BEF_KERNEL_H_
 #define TFRT_BEF_KERNEL_H_
 
+#include <cstdint>
+
 #include "tfrt/bef/bef.h"
 
 namespace tfrt {

@@ -19,6 +19,8 @@
 #ifndef TFRT_COMPILER_OPDEFS_TFRT_TRAITS_H_
 #define TFRT_COMPILER_OPDEFS_TFRT_TRAITS_H_
 
+#include <cstdint>
+
 #include "mlir/IR/OpDefinition.h"
 
 namespace tfrt {

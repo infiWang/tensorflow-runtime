@@ -16,6 +16,8 @@
 
 #include "tfrt/core_runtime/tensor_handle.h"
 
+#include <cstdint>
+
 #include "llvm/Support/raw_ostream.h"
 #include "tfrt/host_context/async_dispatch.h"
 #include "tfrt/host_context/async_value_ref.h"

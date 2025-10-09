@@ -15,6 +15,8 @@
  */
 #include "tfrt/bef/kernel.h"
 
+#include <cstdint>
+
 #include "gmock/gmock.h"
 #include "gtest/gtest.h"
 

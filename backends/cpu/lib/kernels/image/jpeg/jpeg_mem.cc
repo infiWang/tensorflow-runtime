@@ -22,6 +22,7 @@ limitations under the License.
 
 #include <setjmp.h>
 
+#include <cstdint>
 #include <string>
 
 #include "jpeg_handle.h"

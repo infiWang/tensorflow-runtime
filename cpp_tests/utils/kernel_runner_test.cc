@@ -14,6 +14,8 @@
 
 #include "tfrt/utils/kernel_runner.h"
 
+#include <cstdint>
+
 #include "gmock/gmock.h"
 #include "gtest/gtest.h"
 #include "tfrt/cpp_tests/test_util.h"

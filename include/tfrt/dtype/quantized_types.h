@@ -20,6 +20,8 @@
 #ifndef TFRT_DTYPE_QUANTIZED_TYPES_H_
 #define TFRT_DTYPE_QUANTIZED_TYPES_H_
 
+#include <cstdint>
+
 #include "llvm/Support/raw_ostream.h"
 #include "tfrt/support/forward_decls.h"
 

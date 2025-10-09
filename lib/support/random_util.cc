@@ -16,6 +16,7 @@
 
 #include "tfrt/support/random_util.h"
 
+#include <cstdint>
 #include <mutex>
 #include <random>
 

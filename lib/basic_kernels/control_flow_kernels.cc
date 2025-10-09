@@ -15,6 +15,7 @@
 // This file implements core control flow related kernels.
 
 #include <algorithm>
+#include <cstdint>
 #include <iterator>
 #include <utility>
 

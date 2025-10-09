@@ -14,6 +14,8 @@
 
 // This file implements a host executor kernels for integer types.
 
+#include <cstdint>
+
 #include "llvm_derived/Support/raw_ostream.h"
 #include "tfrt/basic_kernels/basic_kernels.h"
 #include "tfrt/host_context/kernel_utils.h"

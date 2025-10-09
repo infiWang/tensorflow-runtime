@@ -18,6 +18,8 @@
 
 #include "tfrt/compiler/stream_analysis.h"
 
+#include <cstdint>
+
 #include "tfrt/basic_kernels/opdefs/basic_kernels.h"
 #include "tfrt/basic_kernels/opdefs/types.h"
 #include "tfrt/compiler/opdefs/tfrt_op_interfaces.h"

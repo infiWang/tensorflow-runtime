@@ -16,6 +16,7 @@
 
 #include "third_party/tensorflow/compiler/xla/runtime/custom_call.h"
 
+#include <cstdint>
 #include <utility>
 
 #include "benchmark/benchmark.h"

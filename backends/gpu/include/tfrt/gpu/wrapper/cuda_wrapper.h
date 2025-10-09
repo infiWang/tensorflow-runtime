@@ -18,6 +18,7 @@
 #ifndef TFRT_GPU_WRAPPER_CUDA_WRAPPER_H_
 #define TFRT_GPU_WRAPPER_CUDA_WRAPPER_H_
 
+#include <cstdint>
 #include <cstddef>
 #include <memory>
 

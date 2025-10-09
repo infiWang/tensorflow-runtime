@@ -22,6 +22,7 @@
 #ifndef TFRT_SUPPORT_THREAD_ENVIRONMENT_STD_H_
 #define TFRT_SUPPORT_THREAD_ENVIRONMENT_STD_H_
 
+#include <cstdint>
 #include <thread>
 
 #include "llvm/ADT/StringRef.h"

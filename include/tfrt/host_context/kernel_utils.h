@@ -23,6 +23,7 @@
 #ifndef TFRT_HOST_CONTEXT_KERNEL_UTILS_H_
 #define TFRT_HOST_CONTEXT_KERNEL_UTILS_H_
 
+#include <cstdint>
 #include <type_traits>
 
 #include "llvm/Support/Error.h"

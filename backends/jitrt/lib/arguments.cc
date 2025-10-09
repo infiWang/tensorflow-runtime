@@ -16,6 +16,8 @@
 
 #include "tfrt/jitrt/arguments.h"
 
+#include <cstdint>
+
 #include "llvm/ADT/ArrayRef.h"
 #include "tfrt/dtype/dtype.h"
 #include "tfrt/support/error_util.h"

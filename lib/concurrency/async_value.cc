@@ -15,6 +15,7 @@ limitations under the License.
 
 #include "tfrt/concurrency/async_value.h"
 
+#include <cstdint>
 #include <functional>
 #include <utility>
 #include <vector>

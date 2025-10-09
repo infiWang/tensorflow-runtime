@@ -18,6 +18,7 @@
 #ifndef TFRT_GPU_WRAPPER_CUDNN_WRAPPER_H_
 #define TFRT_GPU_WRAPPER_CUDNN_WRAPPER_H_
 
+#include <cstdint>
 #include <string>
 
 #include "cudnn.h"           // from @cudnn_headers

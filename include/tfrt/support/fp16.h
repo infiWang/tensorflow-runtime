@@ -19,6 +19,8 @@
 #ifndef TFRT_SUPPORT_FP16_H_
 #define TFRT_SUPPORT_FP16_H_
 
+#include <cstdint>
+
 #include "llvm/Support/raw_ostream.h"
 #include "tfrt/support/forward_decls.h"
 

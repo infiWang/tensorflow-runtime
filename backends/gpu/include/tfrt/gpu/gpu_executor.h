@@ -19,6 +19,7 @@
 #ifndef TFRT_GPU_GPU_EXECUTOR_H_
 #define TFRT_GPU_GPU_EXECUTOR_H_
 
+#include <cstdint>
 #include <functional>
 #include <memory>
 #include <string>

@@ -17,6 +17,8 @@
 
 #include <immintrin.h>
 
+#include <cstdint>
+
 #include "tfrt/core_runtime/op_attr_type.h"
 #include "tfrt/core_runtime/op_attrs.h"
 #include "tfrt/core_runtime/op_utils.h"

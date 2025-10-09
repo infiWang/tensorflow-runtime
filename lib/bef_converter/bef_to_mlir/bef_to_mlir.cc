@@ -22,6 +22,7 @@
 
 #include "tfrt/bef_converter/bef_to_mlir.h"
 
+#include <cstdint>
 #include <optional>
 #include <utility>
 #include <vector>

@@ -14,6 +14,8 @@
 
 // Collates list of all unary TF operations.
 
+#include <cstdint>
+
 #include "eigen_helper.cu.h"
 #include "tfrt/core_runtime/op_attrs.h"
 #include "tfrt/gpu/core_runtime/gpu_op_registry.h"

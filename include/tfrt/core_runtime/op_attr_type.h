@@ -21,6 +21,7 @@
 
 #include <cinttypes>
 #include <complex>
+#include <cstdint>
 #include <utility>
 
 #include "tfrt/bef/bef_encoding.h"

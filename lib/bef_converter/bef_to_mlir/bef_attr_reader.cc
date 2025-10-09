@@ -16,6 +16,8 @@
 
 #include "bef_attr_reader.h"
 
+#include <cstdint>
+
 #include "mlir/IR/Attributes.h"
 #include "mlir/IR/Block.h"
 #include "mlir/IR/BuiltinAttributes.h"

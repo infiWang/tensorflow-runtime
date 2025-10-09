@@ -14,6 +14,8 @@
 
 // This library contains test kernels needed by example_kernels unit tests.
 
+#include <cstdint>
+
 #include "llvm_derived/Support/raw_ostream.h"
 #include "tfrt/bef_executor/function_util.h"
 #include "tfrt/host_context/async_dispatch.h"
