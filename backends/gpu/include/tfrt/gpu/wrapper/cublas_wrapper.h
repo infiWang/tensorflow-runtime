@@ -22,6 +22,8 @@
 #include "tfrt/gpu/wrapper/blas_wrapper.h"
 #include "tfrt/gpu/wrapper/cuda_type_traits.h"
 
+#include <cstdint>
+
 namespace tfrt {
 namespace gpu {
 namespace wrapper {

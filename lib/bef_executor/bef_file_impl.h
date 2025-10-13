@@ -19,6 +19,7 @@
 #ifndef TFRT_LIB_BEF_EXECUTOR_BEF_FILE_IMPL_H_
 #define TFRT_LIB_BEF_EXECUTOR_BEF_FILE_IMPL_H_
 
+#include <cstdint>
 #include <optional>
 #include <type_traits>
 #include <vector>

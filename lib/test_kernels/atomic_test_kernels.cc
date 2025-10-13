@@ -16,6 +16,7 @@
 // concurrency situations.
 
 #include <atomic>
+#include <cstdint>
 
 #include "tfrt/host_context/kernel_utils.h"
 #include "tfrt/test_kernels.h"

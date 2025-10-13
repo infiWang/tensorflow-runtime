@@ -16,6 +16,8 @@
 
 // Tile Tensorflow kernel implementations.
 
+#include <cstdint>
+
 #include "./tile_kernel.h"
 
 namespace tfrt {

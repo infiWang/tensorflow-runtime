@@ -16,6 +16,8 @@
 
 #include "bef_string_emitter.h"
 
+#include <cstdint>
+
 namespace tfrt {
 
 size_t BefStringEmitter::EmitString(string_view str) {

@@ -16,6 +16,7 @@
 
 #include "tfrt/bef/bef_location.h"
 
+#include <cstdint>
 #include <optional>
 
 #include "llvm/Support/raw_ostream.h"

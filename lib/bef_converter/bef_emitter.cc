@@ -18,6 +18,8 @@
 
 #include "tfrt/bef_converter/bef_emitter.h"
 
+#include <cstdint>
+
 namespace tfrt {
 
 const uint8_t BefEmitter::kDummyByte;

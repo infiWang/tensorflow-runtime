@@ -19,6 +19,8 @@
 #ifndef TFRT_LIB_BEF_CONVERTER_BEF_TO_MLIR_BEF_LOCATION_READER_H_
 #define TFRT_LIB_BEF_CONVERTER_BEF_TO_MLIR_BEF_LOCATION_READER_H_
 
+#include <cstdint>
+
 #include "mlir/IR/Location.h"
 #include "mlir/IR/MLIRContext.h"
 #include "tfrt/bef/bef_location.h"

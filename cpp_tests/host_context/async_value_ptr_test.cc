@@ -14,6 +14,8 @@
 
 // This file contains unit tests for TFRT AsyncValuePtr class.
 
+#include <cstdint>
+
 #include "gtest/gtest.h"
 #include "tfrt/cpp_tests/test_util.h"
 #include "tfrt/host_context/async_value_ref.h"

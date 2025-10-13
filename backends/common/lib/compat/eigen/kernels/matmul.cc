@@ -16,6 +16,8 @@
 //
 // Matrix multiplication kernels implemented with Eigen.
 
+#include <cstdint>
+
 #include "tfrt/common/compat/eigen/contraction_kernel.h"
 #include "tfrt/common/compat/eigen/eigen_kernel.h"
 #include "tfrt/common/compat/eigen/tensor_types.h"

@@ -16,6 +16,7 @@
 #include "tfrt/gpu/wrapper/hip_wrapper.h"
 
 #include <cstddef>
+#include <cstdint>
 
 #include "llvm/Support/FormatVariadic.h"
 #include "tfrt/gpu/wrapper/hip_stub.h"

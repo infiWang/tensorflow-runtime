@@ -17,6 +17,7 @@
 #include "tfrt/support/logging.h"
 
 #include <chrono>
+#include <cstdint>
 #include <sstream>
 #include <thread>
 

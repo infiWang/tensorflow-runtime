@@ -16,6 +16,8 @@
 
 #include "bef_location_emitter.h"
 
+#include <cstdint>
+
 #include "mlir/IR/Location.h"
 #include "mlir/IR/Operation.h"
 #include "mlir/IR/OperationSupport.h"

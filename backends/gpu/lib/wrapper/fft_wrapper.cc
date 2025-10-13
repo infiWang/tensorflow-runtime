@@ -16,6 +16,7 @@
 #include "tfrt/gpu/wrapper/fft_wrapper.h"
 
 #include <cstddef>
+#include <cstdint>
 
 #include "llvm/Support/Errc.h"
 #include "llvm/Support/Error.h"

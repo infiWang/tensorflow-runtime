@@ -19,6 +19,8 @@
 #ifndef TFRT_CORE_RUNTIME_OPDEFS_ATTRIBUTES_H_
 #define TFRT_CORE_RUNTIME_OPDEFS_ATTRIBUTES_H_
 
+#include <cstdint>
+
 #include "mlir/IR/Attributes.h"
 
 namespace tfrt {

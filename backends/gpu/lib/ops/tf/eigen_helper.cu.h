@@ -19,6 +19,8 @@
 #ifndef TFRT_BACKENDS_GPU_LIB_OPS_TF_EIGEN_HELPER_CU_H_
 #define TFRT_BACKENDS_GPU_LIB_OPS_TF_EIGEN_HELPER_CU_H_
 
+#include <cstdint>
+
 #define EIGEN_USE_GPU
 
 #include "llvm/ADT/FunctionExtras.h"

@@ -14,6 +14,8 @@
 
 #include "tfrt/support/crc32c.h"
 
+#include <cstdint>
+
 #include "gtest/gtest.h"
 
 namespace tfrt {

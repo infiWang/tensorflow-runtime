@@ -17,6 +17,8 @@
 
 #include "tfrt/tensor/tensor_serialize_utils.h"
 
+#include <cstdint>
+
 #include "tfrt/bef_converter/bef_attr_encoder.h"
 #include "tfrt/dtype/dtype.h"
 #include "tfrt/host_context/attribute_utils.h"

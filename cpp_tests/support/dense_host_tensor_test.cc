@@ -18,6 +18,7 @@
 
 #include "tfrt/tensor/dense_host_tensor.h"
 
+#include <cstdint>
 #include <complex>
 
 #include "gmock/gmock.h"

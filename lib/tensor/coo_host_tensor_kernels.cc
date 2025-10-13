@@ -14,6 +14,8 @@
 
 // This file defines the kernels for COO sparse host tensors.
 
+#include <cstdint>
+
 #include "tfrt/host_context/kernel_utils.h"
 #include "tfrt/tensor/coo_host_tensor.h"
 #include "tfrt/tensor/dense_tensor_utils.h"

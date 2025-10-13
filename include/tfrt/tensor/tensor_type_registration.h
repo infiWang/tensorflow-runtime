@@ -19,6 +19,8 @@
 #ifndef TFRT_TENSOR_TENSOR_TYPE_REGISTRATION_H_
 #define TFRT_TENSOR_TENSOR_TYPE_REGISTRATION_H_
 
+#include <cstdint>
+
 #include "llvm/ADT/StringMap.h"
 #include "tfrt/support/forward_decls.h"
 #include "tfrt/support/mutex.h"

@@ -19,6 +19,7 @@
 
 #include "tfrt/bef_executor/bef_file.h"
 
+#include <cstdint>
 #include <optional>
 
 #include "bef_file_impl.h"

@@ -19,6 +19,7 @@
 #ifndef TFRT_SUPPORT_TYPE_ID_H_
 #define TFRT_SUPPORT_TYPE_ID_H_
 
+#include <cstdint>
 #include <atomic>
 
 namespace tfrt {

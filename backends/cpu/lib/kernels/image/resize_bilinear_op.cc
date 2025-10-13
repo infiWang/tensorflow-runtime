@@ -14,6 +14,8 @@
 
 // This file declaress the functions to resize image.
 
+#include <cstdint>
+
 #include "resize_bilinear_op.h"
 
 namespace tfrt {

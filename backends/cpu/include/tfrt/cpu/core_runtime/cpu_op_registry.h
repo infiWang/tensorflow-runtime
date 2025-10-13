@@ -21,6 +21,7 @@
 #ifndef TFRT_BACKENDS_CPU_CORE_RUNTIME_CPU_OP_REGISTRY_H_
 #define TFRT_BACKENDS_CPU_CORE_RUNTIME_CPU_OP_REGISTRY_H_
 
+#include <cstdint>
 #include <memory>
 
 #include "tfrt/core_runtime/op_metadata_function.h"

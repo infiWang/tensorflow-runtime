@@ -16,6 +16,7 @@
 
 #include "tfrt/gpu/gpu_types.h"
 
+#include <cstdint>
 #include <chrono>  // NOLINT
 #include <ratio>   // NOLINT
 #include <sstream>

@@ -18,6 +18,8 @@
 
 #include "tfrt/host_context/host_buffer.h"
 
+#include <cstdint>
+
 #include "gtest/gtest.h"
 #include "tfrt/host_context/host_allocator.h"
 

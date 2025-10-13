@@ -20,6 +20,7 @@
 #ifndef TFRT_GPU_MEMORY_BFC_GPU_ALLOCATOR_H_
 #define TFRT_GPU_MEMORY_BFC_GPU_ALLOCATOR_H_
 
+#include <cstdint>
 #include <map>
 #include <set>
 #include <unordered_map>

@@ -17,6 +17,8 @@
 #ifndef TFRT_BACKENDS_COMMON_LIB_COMPAT_EIGEN_KERNELS_ZERO_PADDING_H_
 #define TFRT_BACKENDS_COMMON_LIB_COMPAT_EIGEN_KERNELS_ZERO_PADDING_H_
 
+#include <cstdint>
+
 #include "tfrt/common/compat/eigen/eigen_kernel.h"
 #include "tfrt/common/compat/eigen/tensor_types.h"
 #include "tfrt/host_context/diagnostic.h"

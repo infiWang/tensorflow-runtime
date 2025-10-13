@@ -14,6 +14,7 @@
 
 // Sample kernels defined in tutorial.md, added here for testing.
 
+#include <cstdint>
 #include <cstdio>
 
 #include "tfrt/host_context/chain.h"

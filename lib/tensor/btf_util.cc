@@ -16,6 +16,7 @@
 
 #include "tfrt/tensor/btf_util.h"
 
+#include <cstdint>
 #include <iostream>
 
 namespace tfrt {

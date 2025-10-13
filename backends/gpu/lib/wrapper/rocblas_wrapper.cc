@@ -15,6 +15,8 @@
 // Thin wrapper around the rocBLAS API adding llvm::Error.
 #include "tfrt/gpu/wrapper/rocblas_wrapper.h"
 
+#include <cstdint>
+
 #include "wrapper_detail.h"
 
 namespace tfrt {

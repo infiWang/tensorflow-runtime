@@ -16,6 +16,7 @@
 
 #include "tfrt/tensor/tensor_type_registration.h"
 
+#include <cstdint>
 #include <limits>
 #include <tuple>
 

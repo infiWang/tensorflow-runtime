@@ -49,6 +49,7 @@
 #ifndef TFRT_COMPILER_STREAM_ANALYSIS_H_
 #define TFRT_COMPILER_STREAM_ANALYSIS_H_
 
+#include <cstdint>
 #include <optional>
 
 #include "llvm/ADT/SetVector.h"

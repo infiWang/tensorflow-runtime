@@ -31,6 +31,7 @@
 #include <unistd.h>
 #endif
 
+#include <cstdint>
 #include <system_error>
 
 #include "llvm/Support/FileSystem.h"

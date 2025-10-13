@@ -16,6 +16,7 @@
 
 #include "tfrt/gpu/kernels/gpu_ops.h"
 
+#include <cstdint>
 #include <iterator>
 #include <utility>
 

@@ -15,6 +15,7 @@
 // Thin wrapper around the cuDNN API adding llvm::Error.
 #include "tfrt/gpu/wrapper/cudnn_wrapper.h"
 
+#include <cstdint>
 #include <cstdlib>
 #include <cstring>
 #include <optional>

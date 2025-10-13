@@ -17,6 +17,7 @@
 #include "tfrt/gpu/wrapper/cufft_wrapper.h"
 
 #include <cstddef>
+#include <cstdint>
 #include <utility>
 
 #include "llvm/ADT/SmallVector.h"

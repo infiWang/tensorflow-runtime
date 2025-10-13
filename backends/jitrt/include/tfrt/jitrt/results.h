@@ -17,6 +17,7 @@
 #ifndef TFRT_BACKENDS_JITRT_INCLUDE_TFRT_JITRT_RESULTS_H_
 #define TFRT_BACKENDS_JITRT_INCLUDE_TFRT_JITRT_RESULTS_H_
 
+#include <cstdint>
 #include <functional>
 #include <type_traits>
 #include <utility>

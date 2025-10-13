@@ -19,6 +19,8 @@
 #ifndef TFRT_TENSOR_DENSE_VIEW_H_
 #define TFRT_TENSOR_DENSE_VIEW_H_
 
+#include <cstdint>
+
 #include "llvm/ADT/ArrayRef.h"
 #include "tfrt/tensor/tensor_metadata.h"
 

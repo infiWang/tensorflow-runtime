@@ -18,6 +18,7 @@
 
 #include "shape_ops.h"
 
+#include <cstdint>
 #include <algorithm>
 
 #include "tfrt/core_runtime/op_utils.h"

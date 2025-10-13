@@ -16,6 +16,8 @@
 
 #include "tfrt/dtype/dtype.h"
 
+#include <cstdint>
+
 #include "gmock/gmock.h"
 #include "gtest/gtest.h"
 #include "tfrt/dtype/dtype_formatter.h"

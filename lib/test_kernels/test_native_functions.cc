@@ -14,6 +14,8 @@
 
 // This file implements a few native functions for testing.
 
+#include <cstdint>
+
 #include "tfrt/host_context/async_dispatch.h"
 #include "tfrt/host_context/chain.h"
 #include "tfrt/host_context/host_context.h"

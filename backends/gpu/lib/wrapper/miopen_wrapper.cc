@@ -15,6 +15,8 @@
 // Thin wrapper around the MIOpen API adding llvm::Error.
 #include "tfrt/gpu/wrapper/miopen_wrapper.h"
 
+#include <cstdint>
+
 #include "wrapper_detail.h"
 
 namespace tfrt {

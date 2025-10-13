@@ -18,6 +18,7 @@
 
 #include "matmul_ops.h"
 
+#include <cstdint>
 #include <algorithm>
 #include <complex>
 #include <initializer_list>

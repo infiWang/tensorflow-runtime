@@ -21,6 +21,7 @@
 #ifndef TFRT_SUPPORT_RAW_CODING_H_
 #define TFRT_SUPPORT_RAW_CODING_H_
 
+#include <cstdint>
 #include <cstring>
 
 #include "tfrt/support/forward_decls.h"

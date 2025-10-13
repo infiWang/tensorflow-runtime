@@ -18,6 +18,8 @@
 
 #include "../../lib/bef_converter/mlir_to_bef/bef_attr_emitter.h"
 
+#include <cstdint>
+
 #include "gmock/gmock.h"
 #include "gtest/gtest.h"
 #include "llvm/ADT/ArrayRef.h"

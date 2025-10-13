@@ -19,6 +19,8 @@
 #ifndef TFRT_SUPPORT_LOGGING_H_
 #define TFRT_SUPPORT_LOGGING_H_
 
+#include <cstdint>
+
 #include "llvm/Support/raw_ostream.h"
 
 // There are four severity levels: INFO, WARNING, ERROR, FATAL.

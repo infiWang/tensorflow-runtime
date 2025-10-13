@@ -14,6 +14,8 @@
 
 // This file implements host executor kernels for boolean types.
 
+#include <cstdint>
+
 #include "tfrt/basic_kernels/basic_kernels.h"
 #include "tfrt/host_context/kernel_utils.h"
 

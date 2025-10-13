@@ -19,6 +19,8 @@
 #ifndef TFRT_LIB_BEF_CONVERTER_BEF_TO_MLIR_BEF_ATTR_READER_H_
 #define TFRT_LIB_BEF_CONVERTER_BEF_TO_MLIR_BEF_ATTR_READER_H_
 
+#include <cstdint>
+
 #include "llvm/ADT/SetVector.h"
 #include "mlir/IR/Builders.h"
 #include "mlir/IR/BuiltinOps.h"

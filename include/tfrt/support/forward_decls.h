@@ -21,6 +21,7 @@
 #define TFRT_SUPPORT_FORWARD_DECLS_H_
 
 #include <cstddef>
+#include <cstdint>
 #include <memory>
 
 #include "llvm/Support/Casting.h"

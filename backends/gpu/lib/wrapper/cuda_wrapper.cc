@@ -15,6 +15,8 @@
 // Thin wrapper around the CUDA API adding llvm::Error and explicit context.
 #include "tfrt/gpu/wrapper/cuda_wrapper.h"
 
+#include <cstdint>
+
 #include "llvm/Support/FormatVariadic.h"
 #include "wrapper_detail.h"
 

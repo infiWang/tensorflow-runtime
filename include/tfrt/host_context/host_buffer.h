@@ -21,6 +21,8 @@
 #ifndef TFRT_HOST_CONTEXT_HOST_BUFFER_H_
 #define TFRT_HOST_CONTEXT_HOST_BUFFER_H_
 
+#include <cstdint>
+
 #include "llvm/ADT/ArrayRef.h"
 #include "llvm/ADT/FunctionExtras.h"
 #include "llvm/Support/raw_ostream.h"

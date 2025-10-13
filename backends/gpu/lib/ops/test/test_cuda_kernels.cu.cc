@@ -14,6 +14,7 @@
 
 // This file contains CUDA kernels for some test.* ops.
 
+#include <cstdint>
 #include <string>
 
 #define EIGEN_USE_GPU

@@ -18,6 +18,7 @@
 
 #include "tfrt/compiler/stream_analysis.h"
 
+#include <cstdint>
 #include <optional>
 
 #include "tfrt/basic_kernels/opdefs/basic_kernels.h"

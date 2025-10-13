@@ -18,6 +18,7 @@
 //
 // Unit test for TFRT sync kernels.
 
+#include <cstdint>
 #include "gtest/gtest.h"
 #include "tfrt/host_context/concurrent_work_queue.h"
 #include "tfrt/host_context/execution_context.h"

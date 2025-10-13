@@ -16,6 +16,7 @@
 
 #include "tfrt/tensor/tensor_shape.h"
 
+#include <cstdint>
 #include <optional>
 
 #include "llvm/ADT/SmallVector.h"

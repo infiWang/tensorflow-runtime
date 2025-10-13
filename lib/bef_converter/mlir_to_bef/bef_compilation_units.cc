@@ -16,6 +16,7 @@
 
 #include "bef_compilation_units.h"
 
+#include <cstdint>
 #include <string>
 #include <utility>
 

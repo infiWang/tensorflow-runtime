@@ -19,6 +19,8 @@
 #ifndef TFRT_LIB_BEF_CONVERTER_MLIR_TO_BEF_BEF_LOCATION_EMITTER_H_
 #define TFRT_LIB_BEF_CONVERTER_MLIR_TO_BEF_BEF_LOCATION_EMITTER_H_
 
+#include <cstdint>
+
 #include "bef_string_emitter.h"
 #include "llvm/ADT/ArrayRef.h"
 #include "mlir/IR/BuiltinOps.h"

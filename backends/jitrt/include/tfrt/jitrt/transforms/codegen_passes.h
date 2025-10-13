@@ -17,6 +17,7 @@
 #ifndef TFRT_BACKENDS_JITRT_TRANSFORMS_CODEGEN_PASSES_H_
 #define TFRT_BACKENDS_JITRT_TRANSFORMS_CODEGEN_PASSES_H_
 
+#include <cstdint>
 #include <memory>
 
 #include "mlir/Pass/Pass.h"

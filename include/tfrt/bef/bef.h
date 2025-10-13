@@ -81,6 +81,7 @@
 #define TFRT_BEF_BEF_H_
 
 #include <cassert>
+#include <cstdint>
 #include <cstring>
 #include <utility>
 #include <vector>

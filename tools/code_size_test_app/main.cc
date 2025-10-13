@@ -18,6 +18,7 @@
 // simplest core components to run a fibonacci computation. It is used to track
 // the code size of a deployed binary on mobile environment.
 
+#include <cstdint>
 #include <cstdio>
 
 #include "tfrt/basic_kernels/basic_kernels.h"

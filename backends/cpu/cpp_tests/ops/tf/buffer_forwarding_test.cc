@@ -14,6 +14,8 @@
 
 //  Tensorflow operations buffer forwarding unit tests.
 
+#include <cstdint>
+
 #include "../../../lib/ops/tf/buffer_forwarding.h"
 
 #include "benchmark/benchmark.h"
