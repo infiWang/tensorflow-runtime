@@ -18,6 +18,8 @@
 
 #include "tfrt/tensor/btf.h"
 
+#include <cstdint>
+
 #include "gtest/gtest.h"
 #include "llvm/Support/raw_ostream.h"
 #include "tfrt/cpp_tests/test_util.h"

@@ -16,6 +16,8 @@
 
 #include "bef_location_emitter.h"
 
+#include <cstdint>
+
 #include "llvm/Support/Casting.h"
 #include "mlir/IR/Location.h"
 #include "mlir/IR/Operation.h"

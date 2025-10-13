@@ -20,6 +20,7 @@
 #ifndef TFRT_BEF_EXECUTOR_BEF_FILE_H_
 #define TFRT_BEF_EXECUTOR_BEF_FILE_H_
 
+#include <cstdint>
 #include <functional>
 #include <memory>
 

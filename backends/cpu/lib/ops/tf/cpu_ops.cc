@@ -16,6 +16,8 @@
 
 #include "tfrt/cpu/ops/tf/cpu_ops.h"
 
+#include <cstdint>
+
 #include "../../kernels/cpu_kernels.h"
 #include "constant_ops.h"
 #include "cwise_binary_ops.h"

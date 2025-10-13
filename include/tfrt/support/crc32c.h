@@ -22,6 +22,7 @@
 #define TFRT_SUPPORT_CRC32C_H_
 
 #include <stddef.h>
+#include <stdint.h>
 
 #include "tfrt/support/forward_decls.h"
 

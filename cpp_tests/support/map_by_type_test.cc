@@ -15,6 +15,8 @@
 // Tests related to MapByType
 #include "tfrt/support/map_by_type.h"
 
+#include <cstdint>
+
 #include "benchmark/benchmark.h"
 #include "gmock/gmock.h"
 #include "gtest/gtest.h"

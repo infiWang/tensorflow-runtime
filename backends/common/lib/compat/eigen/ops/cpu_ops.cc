@@ -15,6 +15,7 @@
 // This file defines dispatch functions for CPU implementation of TF ops.
 
 #include <cassert>
+#include <cstdint>
 
 #include "../kernels/batch_norm.h"
 #include "../kernels/conv2d.h"

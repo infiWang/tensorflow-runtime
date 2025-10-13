@@ -17,6 +17,7 @@
 
 #include "driver.h"
 
+#include <cstdint>
 #include <memory>
 
 #include "benchmark/benchmark.h"

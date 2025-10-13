@@ -17,6 +17,8 @@
 
 #include "tfrt/core_runtime/kernels.h"
 
+#include <cstdint>
+
 #include "llvm/ADT/FunctionExtras.h"
 #include "llvm/ADT/SmallString.h"
 #include "tfrt/core_runtime/core_runtime.h"

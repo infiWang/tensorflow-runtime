@@ -14,6 +14,7 @@
 
 // This library contains test kernels needed by example_kernels unit tests.
 
+#include <cstdint>
 #include <thread>
 
 #include "llvm/ADT/FunctionExtras.h"

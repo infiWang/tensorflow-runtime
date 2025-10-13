@@ -16,6 +16,8 @@
 
 #include "tfrt/utils/mlir_runner_util.h"
 
+#include <cstdint>
+
 #include "gtest/gtest.h"
 #include "mlir/Dialect/Func/IR/FuncOps.h"
 #include "tfrt/basic_kernels/opdefs/tfrt_base.h"

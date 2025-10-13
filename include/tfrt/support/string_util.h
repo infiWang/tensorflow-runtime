@@ -19,6 +19,7 @@
 #ifndef TFRT_SUPPORT_STRING_UTIL_H_
 #define TFRT_SUPPORT_STRING_UTIL_H_
 
+#include <cstdint>
 #include <sstream>
 #include <string>
 #include <utility>

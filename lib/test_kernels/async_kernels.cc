@@ -16,6 +16,7 @@
 // testing.
 
 #include <chrono>
+#include <cstdint>
 #include <random>
 #include <thread>
 

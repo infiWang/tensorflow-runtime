@@ -17,6 +17,7 @@
 #ifndef TFRT_LIB_BEF_CONVERTER_MLIR_TO_BEF_BEF_COMPILATION_UNITS_H_
 #define TFRT_LIB_BEF_CONVERTER_MLIR_TO_BEF_BEF_COMPILATION_UNITS_H_
 
+#include <cstdint>
 #include <string>
 
 #include "mlir/IR/BuiltinOps.h"

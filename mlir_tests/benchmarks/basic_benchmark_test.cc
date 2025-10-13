@@ -14,6 +14,8 @@
  * limitations under the License.
  */
 
+#include <cstdint>
+
 #include "benchmark/benchmark.h"
 #include "gmock/gmock.h"
 #include "gtest/gtest.h"

@@ -18,6 +18,7 @@
 
 #include "../../lib/bef_converter/bef_to_mlir/bef_attr_reader.h"
 
+#include <cstdint>
 #include <memory>
 
 #include "../../lib/bef_converter/mlir_to_bef/bef_attr_emitter.h"

@@ -14,6 +14,7 @@
 
 // This file implements a few simple classes of synchronous kernels for testing.
 
+#include <cstdint>
 #include <fstream>
 #include <iterator>
 #include <random>

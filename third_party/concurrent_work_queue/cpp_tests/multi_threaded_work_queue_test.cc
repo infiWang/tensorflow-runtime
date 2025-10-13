@@ -5,6 +5,7 @@
 // Unit tests and benchmarks for MultiThreadedWorkQueue.
 
 #include <atomic>
+#include <cstdint>
 
 #include "gtest/gtest.h"
 #include "tfrt/host_context/async_dispatch.h"

@@ -18,6 +18,8 @@ limitations under the License.
 //
 // Based on tensorflow/core/lib/jpeg/jpeg_handle.cc
 
+#include <cstdint>
+
 #include "jpeg_handle.h"
 
 #include <setjmp.h>

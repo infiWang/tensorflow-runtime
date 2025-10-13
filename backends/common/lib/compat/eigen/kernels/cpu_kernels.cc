@@ -14,6 +14,8 @@
 
 // This file registers a few kernels implemented using the Eigen library.
 
+#include <cstdint>
+
 #include "batch_norm.h"
 #include "conv2d.h"
 #include "max_pooling.h"

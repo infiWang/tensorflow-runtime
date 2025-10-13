@@ -23,6 +23,7 @@
 #define EIGEN_USE_GPU
 #endif  // GOOGLE_CUDA || TENSORFLOW_USE_ROCM
 
+#include <cstdint>
 #include <type_traits>
 
 #include "tfrt/common/compat/eigen/eigen_kernel.h"

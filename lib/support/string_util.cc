@@ -19,6 +19,8 @@ limitations under the License.
 // Based on tensorflow/core/platform/numbers.cc
 #include "tfrt/support/string_util.h"
 
+#include <cstdint>
+
 #include "llvm/Support/Format.h"
 #include "llvm/Support/raw_ostream.h"
 

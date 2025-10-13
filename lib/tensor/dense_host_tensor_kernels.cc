@@ -18,6 +18,7 @@
 
 #include <algorithm>
 #include <complex>
+#include <cstdint>
 
 #include "llvm/ADT/STLExtras.h"
 #include "llvm/Support/raw_ostream.h"

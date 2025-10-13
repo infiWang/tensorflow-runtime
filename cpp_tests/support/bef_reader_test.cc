@@ -16,6 +16,7 @@
 
 #include "tfrt/bef/bef_reader.h"
 
+#include <cstdint>
 #include <numeric>
 
 #include "gtest/gtest.h"

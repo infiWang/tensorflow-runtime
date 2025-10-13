@@ -16,6 +16,8 @@
 //
 // This file contains Metadata functions for TF ops.
 
+#include <cstdint>
+
 #include "tfrt/common/ops/tf/metadata_functions.h"
 
 #include <optional>

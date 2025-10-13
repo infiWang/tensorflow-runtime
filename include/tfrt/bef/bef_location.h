@@ -19,6 +19,7 @@
 #ifndef TFRT_BEF_BEF_LOCATION_H_
 #define TFRT_BEF_BEF_LOCATION_H_
 
+#include <cstdint>
 #include <optional>
 
 #include "llvm/ADT/SmallVector.h"

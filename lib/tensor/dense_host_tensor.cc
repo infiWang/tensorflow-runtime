@@ -17,6 +17,7 @@
 #include "tfrt/tensor/dense_host_tensor.h"
 
 #include <cstddef>
+#include <cstdint>
 #include <cstring>
 #include <optional>
 #include <utility>

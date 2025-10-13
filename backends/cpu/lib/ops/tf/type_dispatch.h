@@ -21,6 +21,8 @@
 #ifndef TFRT_BACKENDS_CPU_OPS_TF_DISPATCH_OP_H_
 #define TFRT_BACKENDS_CPU_OPS_TF_DISPATCH_OP_H_
 
+#include <cstdint>
+
 #include "tfrt/common/compat/eigen/eigen_dtype.h"
 #include "tfrt/dtype/dtype.h"
 

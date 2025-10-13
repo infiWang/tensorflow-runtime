@@ -19,6 +19,7 @@
 #ifndef TFRT_HOST_CONTEXT_EXECUTION_CONTEXT_H_
 #define TFRT_HOST_CONTEXT_EXECUTION_CONTEXT_H_
 
+#include <cstdint>
 #include <utility>
 
 #include "llvm/Support/Error.h"

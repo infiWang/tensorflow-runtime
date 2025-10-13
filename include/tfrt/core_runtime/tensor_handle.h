@@ -19,6 +19,7 @@
 #ifndef TFRT_CORE_RUNTIME_TENSOR_HANDLE_H_
 #define TFRT_CORE_RUNTIME_TENSOR_HANDLE_H_
 
+#include <cstdint>
 #include <memory>
 
 #include "llvm/ADT/PointerIntPair.h"

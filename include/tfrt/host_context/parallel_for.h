@@ -20,6 +20,7 @@
 #define TFRT_SUPPORT_PARALLEL_FOR_H_
 
 #include <cstddef>
+#include <cstdint>
 
 #include "llvm/ADT/FunctionExtras.h"
 #include "llvm/ADT/STLExtras.h"

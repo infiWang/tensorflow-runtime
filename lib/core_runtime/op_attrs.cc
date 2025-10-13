@@ -16,6 +16,8 @@
 
 #include "tfrt/core_runtime/op_attrs.h"
 
+#include <cstdint>
+
 #include "llvm/ADT/STLExtras.h"
 #include "llvm/ADT/StringMap.h"
 #include "llvm/Support/Alignment.h"

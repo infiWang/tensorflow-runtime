@@ -14,6 +14,7 @@
 
 // This file implements kernels that process images.
 
+#include <cstdint>
 #include <utility>
 
 #include "jpeg/jpeg_mem.h"

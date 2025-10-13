@@ -19,6 +19,8 @@
 #ifndef TFRT_BEF_CONVERTER_BEF_EMITTER_H_
 #define TFRT_BEF_CONVERTER_BEF_EMITTER_H_
 
+#include <cstdint>
+
 #include "llvm/ADT/ArrayRef.h"
 #include "llvm/Support/Alignment.h"
 #include "llvm/Support/MathExtras.h"

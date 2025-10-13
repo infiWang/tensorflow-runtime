@@ -16,6 +16,8 @@
 
 #include "tfrt/support/ref_count.h"
 
+#include <cstdint>
+
 #include "gtest/gtest.h"
 
 namespace tfrt {

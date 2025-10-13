@@ -26,6 +26,7 @@
 #include <stdlib.h>
 
 #include <array>
+#include <cstdint>
 
 #include "tfrt/support/forward_decls.h"
 

@@ -14,6 +14,8 @@
 
 // This file implements kernels for reading tensors from file.
 
+#include <cstdint>
+
 #include "tfrt/cpu/ops/test/cpu_ops_and_kernels.h"
 #include "tfrt/host_context/kernel_registry.h"
 #include "tfrt/host_context/kernel_utils.h"

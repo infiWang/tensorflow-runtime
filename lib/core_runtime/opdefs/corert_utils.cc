@@ -15,6 +15,8 @@
 // This file implements MLIR operation functions for the core runtime library.
 #include "tfrt/core_runtime/opdefs/corert_utils.h"
 
+#include <cstdint>
+
 #include "mlir/IR/Builders.h"
 #include "tfrt/basic_kernels/opdefs/tfrt_base.h"
 #include "tfrt/basic_kernels/opdefs/types.h"

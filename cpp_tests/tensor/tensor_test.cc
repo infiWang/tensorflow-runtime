@@ -16,6 +16,7 @@
 
 // Unit test for TFRT Tensor.
 
+#include <cstdint>
 #include <memory>
 
 #include "gmock/gmock.h"
